@@ -1,0 +1,1 @@
+/home/juanma/Escritorio/Programacion/Personal/procesador_de_pagos/pagos/target/debug/pagos: /home/juanma/Escritorio/Programacion/Personal/procesador_de_pagos/pagos/src/commands/handler.rs /home/juanma/Escritorio/Programacion/Personal/procesador_de_pagos/pagos/src/commands/mod.rs /home/juanma/Escritorio/Programacion/Personal/procesador_de_pagos/pagos/src/main.rs

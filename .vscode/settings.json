@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./pagos/Cargo.toml",
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
