@@ -25,15 +25,3 @@ endpoints:
 * POST “new_debit_transaction”
 * POST “store_balances”
 * GET “client_balance”
-
-# recomendaciones
-Se describen a continuación recomendaciones generales alineadas con la forma de
-trabajo interna de PrexCORE:
-* Utilizar Actix Web para la realización del web server.
-* Utilizar formato Decimal para los saldos de clientes.
-* Utilizar asincronismo mediante runtime de Tokio.
-* Utilizar Serde para serialización y deserialización de payloads.
-* Evitar la repetición de código mediante el uso de funciones y/o macros.
-* Buenas prácticas de diseño: KISS, DRY y SOLID.
-
-# modo_de_uso ToDo
