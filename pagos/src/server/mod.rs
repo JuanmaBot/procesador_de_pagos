@@ -1,2 +1,2 @@
 pub mod initialization;
-pub mod handler;
+pub mod endpoints;

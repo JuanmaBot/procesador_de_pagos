@@ -1,0 +1,11 @@
+C:\Users\drjua\OneDrive\Documentos\Aaa-Personal\Proyectos\procesador_de_pagos\pagos\target\debug\deps\cookie-204eb0105f9e28d2.rmeta: C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs
+
+C:\Users\drjua\OneDrive\Documentos\Aaa-Personal\Proyectos\procesador_de_pagos\pagos\target\debug\deps\cookie-204eb0105f9e28d2.d: C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs
+
+C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs:
+C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs:
+C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs:
+C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs:
+C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs:
+C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs:
+C:\Users\drjua\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs:
