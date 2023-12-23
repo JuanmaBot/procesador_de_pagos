@@ -1,13 +1,7 @@
-struct Transaction {
-    client_id: usize,
-    credit_amount: f64,
-}
+use serde::{Serialize, Deserialize};
 
-impl Transaction {
-    fn new(client_id: usize, credit_amount: f64) -> Self {
-        Self {
-            client_id,
-            credit_amount,
-        }
-    }
+#[derive(Serialize, Debug, Deserialize)]
+pub struct Transaction {
+    pub client_id: usize,
+    pub credit_amount: f64,
 }
