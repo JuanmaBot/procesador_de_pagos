@@ -1,0 +1,42 @@
+# Crear Usuario
+    * Metodo: POST
+    * URL: http://localhost:8080/api/new_client
+    * Body: 
+    ```json
+    {
+        "client_name": "Juan",
+        "birth_date": "1990-01-01",
+        "document_number": "123456789",
+        "country": "Colombia"
+    }
+    ```
+
+# Nuevo credito
+    * Metodo: POST
+    * URL: http://localhost:8080/api/new_credit_transaction
+    * Body: 
+    ```json
+    {
+        "client_id": 1,
+        "credit_amount": 1000000.99
+    }
+    ```
+
+# Nevo debito
+    * Metodo: POST
+    * URL: http://localhost:8080/api/new_debit_transaction
+    * Body: 
+    ```json
+    {
+        "client_id": 1,
+        "debit_amount": 1000000.99
+    }
+    ```
+
+# Consultar balance
+    * Metodo: GET
+    * URL: http://localhost:8080/api/client_balance/{id}
+
+# Generar reports
+    * Metodo: POST
+    * URL: http://localhost:8080/api/store_balance
