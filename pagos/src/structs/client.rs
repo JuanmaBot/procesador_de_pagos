@@ -1,5 +1,6 @@
-use serde::{Serialize, Deserialize};
+use serde::{Deserialize, Serialize};
 
+/// Cliente struct es usado para almacenar los datos de los clientes.
 #[derive(Debug, Serialize, Deserialize, Clone)]
 pub struct Cliente {
     pub client_name: String,
